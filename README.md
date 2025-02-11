@@ -1,5 +1,4 @@
 # Time Series Forecasting for Travel Agency
-Hey there!
 
 These are the Python files I worked on during my summer internship, where I focused on time series forecasting for Sevilla Sol Viajes, a renowned Travel Agency in Mexico. 
 Each file showcases a different forecasting model, complete with comments to help you tweak the code for your own datasets.
