@@ -9,4 +9,4 @@ I also analyzed different types of sales data, like leisure trips and corporate 
 
 Additionally, I used these forecasts to compare Sevilla Sol's projected growth with overall travel market growth. 
 The analysis showed that Sevilla Sol is expected to grow by 7.3%, while the broader market is projected to grow by 13.97%. 
-These insights, along with visualizations, were presented to the CEO to guide strategic decision-making.
+These insights, along with visualizations, were presented to management to guide strategic decision-making.
